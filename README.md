@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Akash  <br><br>🎓 AI/ML student passionate about technology and problem solving  <br>💻 Currently working as a Full-Stack developer using the MERN stack  <br>🚀 Learning Next.js and Tailwind CSS to build modern web applications  <br>🧠 Interested in combining AI with web technologies to create useful products  <br>🤝 Open to collaborating on innovative projects
+<h1> 👋 Hi, I'm Akash</h1> <br><br>🎓 AI/ML student passionate about technology and problem solving  <br>💻 Currently working as a Full-Stack developer using the MERN stack  <br>🚀 Learning Next.js and Tailwind CSS to build modern web applications  <br>🧠 Interested in combining AI with web technologies to create useful products  <br>🤝 Open to collaborating on innovative projects
 
 
 ## 🌐 Socials:
