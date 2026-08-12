@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=220&section=header&text=AKASH&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=crafting%20the%20future%20with%20code%20and%20AI&descAlignY=55&descSize=18&descColor=8b949e" width="100%" />
 
 <a href="https://akashhdev.in">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=%24+whoami;AI%2FML+Explorer+%7C+Full-Stack+Dev+%7C+Builder" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=24&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&repeat=true&width=600&height=60&lines=AI+%2F+ML+Explorer;Full-Stack+Developer;Building+the+Future+with+Code" alt="Typing SVG" />
 </a>
 
 </div>
