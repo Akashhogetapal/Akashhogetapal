@@ -67,10 +67,3 @@ const akash = {
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=120&section=footer" width="100%" />
 
-<div align="center">
-
-**⭐ If you like my repos, drop a star — it makes my day!**
-
-<img src="https://komarev.com/ghpvc/?username=Akashhogetapal&style=flat-square&color=58a6ff&label=Profile+Views" alt="Profile Views" />
-
-</div>
