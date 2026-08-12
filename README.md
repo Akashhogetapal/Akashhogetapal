@@ -8,40 +8,35 @@
 
 </div>
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🛠️ &nbsp;Things I Code With
-
 <br/>
+
+<div align="center">
+
+### 🛠️ &nbsp;Tech Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=js,react,nextjs,nodejs,express,mongodb,tailwind,html,css,git,vercel,postman&perline=4" />
+<img src="https://skillicons.dev/icons?i=js,react,nextjs,nodejs,express,mongodb,tailwind,html,css,git,vercel,postman&perline=6" />
 </p>
 
-</td>
-<td width="50%" valign="top">
-
-### 🔗 &nbsp;Find Me Around The Web
+</div>
 
 <br/>
 
-🌐 &nbsp;Portfolio: **[akashhdev.in](https://akashhdev.in)**
+<div align="center">
 
-💼 &nbsp;LinkedIn: **[Akash H](https://linkedin.com/in/Akash%20H)**
+### 🔗 &nbsp;Connect With Me
 
-📸 &nbsp;Instagram: **[akash_hogetapal](https://instagram.com/akash_hogetapal)**
+<p>
+<a href="https://akashhdev.in"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://linkedin.com/in/Akash%20H"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://instagram.com/akash_hogetapal"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://leetcode.com/u/akashhogetapal/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+<a href="https://facebook.com/Akash%20H"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+<a href="mailto:akash85486@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
-📧 &nbsp;Email: **[akash85486@gmail.com](mailto:akash85486@gmail.com)**
-
-🔵 &nbsp;Facebook: **[Akash H](https://facebook.com/Akash%20H)**
-
-</td>
-</tr>
-</table>
+</div>
 
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=120&section=footer" width="100%" />
-
