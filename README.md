@@ -8,28 +8,6 @@
 
 </div>
 
-```js
-// akash.config.js
-
-const akash = {
-    location: "India 🇮🇳",
-    education: "AI/ML Student 🎓",
-    currentRole: "Full-Stack Developer",
-    
-    currently: {
-        building: "Cool stuff with MERN + AI",
-        learning: ["Next.js", "Tailwind CSS", "LLMs"],
-        exploring: "How to make AI actually useful",
-    },
-    
-    askMeAbout: ["web dev", "AI/ML", "tech", "anime"],
-    
-    funFact: "I debug with console.log and I'm not ashamed 🫡",
-};
-```
-
-<br/>
-
 <table>
 <tr>
 <td width="50%" valign="top">
