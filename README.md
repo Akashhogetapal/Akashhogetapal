@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=220&section=header&text=AKASH&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=crafting%20the%20future%20with%20code%20and%20AI&descAlignY=55&descSize=18&descColor=8b949e" width="100%" />
 
 <a href="https://akashhdev.in">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=%24+whoami;Full-Stack+Dev+%7C+AI%2FML+Explorer+%7C+Builder" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=%24+whoami;AI%2FML+Explorer+%7C+Full-Stack+Dev+%7C+Builder" alt="Typing SVG" />
 </a>
 
 </div>
@@ -67,3 +67,10 @@ const akash = {
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=120&section=footer" width="100%" />
 
+<div align="center">
+
+**⭐ If you like my repos, drop a star — it makes my day!**
+
+<img src="https://komarev.com/ghpvc/?username=Akashhogetapal&style=flat-square&color=58a6ff&label=Profile+Views" alt="Profile Views" />
+
+</div>
