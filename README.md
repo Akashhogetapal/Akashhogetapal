@@ -37,6 +37,4 @@
 
 </div>
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=120&section=footer&text=%E2%98%95%20Turning%20caffeine%20into%20code&fontSize=14&fontColor=ffffff&fontAlignY=55&fontFamily=Mrs%20Saint%20Delafield" width="100%" />
