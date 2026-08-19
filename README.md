@@ -16,6 +16,8 @@
 
 <p>
 <img src="https://skillicons.dev/icons?i=js,ts,python,react,nextjs,nodejs,express,mongodb,redis,tailwind,html,css,git,vercel,postman&perline=5" />
+<br/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
 </p>
 
 </div>
