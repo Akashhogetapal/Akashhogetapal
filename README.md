@@ -16,11 +16,10 @@
 
 <p>
 <img src="https://skillicons.dev/icons?i=js,ts,python,react,nextjs,nodejs,express,mongodb,supabase,tailwind,html,css,git,vercel,postman&perline=5" />
-</p>
-<p>
-<img src="https://img.shields.io/badge/-242938?style=for-the-badge&logo=streamlit&logoColor=FF4B4B" height="40" />&nbsp;
-<img src="https://img.shields.io/badge/-242938?style=for-the-badge&logo=railway&logoColor=white" height="40" />&nbsp;
-<img src="https://img.shields.io/badge/-242938?style=for-the-badge&logo=render&logoColor=46E3B7" height="40" />
+<br/><br/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+<img src="https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white" />
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
 </p>
 
 </div>
