@@ -1,62 +1,23 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=220&section=header&text=AKASH&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=crafting%20the%20future%20with%20code%20and%20AI&descAlignY=55&descSize=18&descColor=8b949e" width="100%" />
-
-<br>
-
-<a href="https://akashhdev.in">
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=24&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&repeat=true&width=600&height=60&lines=AI+%2F+ML+Explorer;Full-Stack+Developer;Building+the+Future+with+Code" />
-</a>
-
-<br><br>
-
-### 🛠️ Tech Stack
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=js,ts,python,react,nextjs,nodejs,express,mongodb,supabase,tailwind,html,css,git,vercel,postman&perline=5" />
-
-<br><br><br>
-
-<p>
-<a href="https://streamlit.io">
-<img src="https://img.shields.io/badge/STREAMLIT-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-</a>
-<a href="https://railway.app">
-<img src="https://img.shields.io/badge/RAILWAY-131415?style=for-the-badge&logo=railway&logoColor=white" />
-</a>
-<a href="https://render.com">
-<img src="https://img.shields.io/badge/RENDER-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
-</a>
-</p>
-
-<br><br>
-
-### 🔗 Connect With Me
-
-<br>
-
-<a href="https://akashhdev.in">
-<img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-<a href="https://linkedin.com/in/Akash%20H">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://instagram.com/akash_hogetapal">
-<img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-<a href="https://leetcode.com/u/akashhogetapal/">
-<img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-</a>
-<a href="https://facebook.com/Akash%20H">
-<img src="https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-</a>
-<a href="mailto:akash85486@gmail.com">
-<img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=120&section=footer&text=%E2%98%95%20Turning%20caffeine%20into%20code&fontSize=14&fontColor=ffffff&fontAlignY=55&fontFamily=Mrs%20Saint%20Delafield" width="100%" />
-
-</div>
+<svg width="160.5" height="48" viewBox="0 0 856 256" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Streamlit -->
+  <g transform="translate(0, 0)">
+    <rect width="256" height="256" rx="60" fill="#242938"/>
+    <g transform="translate(44, 44) scale(7)">
+      <path fill="#FF4B4B" d="M16.673 11.32l6.862-3.618c.233-.136.554.12.442.387L20.463 17.1zm-8.556-.229l3.473-5.187c.203-.328.578-.316.793-.028l7.886 11.75zm-3.375 7.25c-.28 0-.835-.284-.993-.716l-3.72-9.46c-.118-.331.139-.614.48-.464l19.474 10.306c-.149.147-.453.337-.72.334z"/>
+    </g>
+  </g>
+  <!-- Railway -->
+  <g transform="translate(300, 0)">
+    <rect width="256" height="256" rx="60" fill="#242938"/>
+    <g transform="translate(44, 44) scale(7)">
+      <path fill="#FFFFFF" d="M.113 10.27A13 13 0 0 0 0 11.48h18.23a2.3 2.3 0 0 0-.235-.347c-3.117-4.027-4.793-3.677-7.19-3.78c-.8-.034-1.34-.048-4.524-.048c-1.704 0-3.555.005-5.358.01c-.234.63-.459 1.24-.567 1.737h9.342v1.216H.113zm18.26 2.426H.009q.029.488.094.961h16.955c.754 0 1.179-.429 1.315-.96zm-17.318 4.28s2.81 6.902 10.93 7.024c4.855 0 9.027-2.883 10.92-7.024H1.056zM11.988 0C7.5 0 3.593 2.466 1.531 6.108l4.75-.005v-.002c3.71 0 3.849.016 4.573.047l.448.016c1.563.052 3.485.22 4.996 1.364c.82.621 2.007 1.99 2.712 2.965c.654.902.842 1.94.396 2.934c-.408.914-1.289 1.458-2.353 1.458H.391s.099.42.249.886h22.748A12 12 0 0 0 24 12.005C24 5.377 18.621 0 11.988 0"/>
+    </g>
+  </g>
+  <!-- Render -->
+  <g transform="translate(600, 0)">
+    <rect width="256" height="256" rx="60" fill="#242938"/>
+    <g transform="translate(44, 44) scale(7)">
+      <path fill="#46E3B7" d="M18.263.007c-3.121-.147-5.744 2.109-6.192 5.082c-.018.138-.045.272-.067.405c-.696 3.703-3.936 6.507-7.827 6.507a7.9 7.9 0 0 1-3.825-.979a.202.202 0 0 0-.302.178V24H12v-8.999c0-1.656 1.338-3 2.987-3h2.988c3.382 0 6.103-2.817 5.97-6.244c-.12-3.084-2.61-5.603-5.682-5.75"/>
+    </g>
+  </g>
+</svg>
