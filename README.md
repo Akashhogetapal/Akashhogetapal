@@ -16,8 +16,10 @@
 
 <p>
 <img src="https://skillicons.dev/icons?i=js,ts,python,react,nextjs,nodejs,express,mongodb,supabase,tailwind,html,css,git,vercel,postman&perline=5" />
-<br/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+<br/><br/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
 </p>
 
 </div>
