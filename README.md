@@ -25,16 +25,18 @@
 <!-- STREAMLIT • RAILWAY • RENDER -->
 <!-- ICON ONLY — NO TEXT -->
 
+<!-- Deployment icons -->
+
+<br>
+
 <a href="https://streamlit.io">
-<img src="https://img.shields.io/badge/-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit">
+<img src="https://img.shields.io/badge/-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" width="50" height="50">
 </a>
-
 <a href="https://railway.app">
-<img src="https://img.shields.io/badge/-131415?style=for-the-badge&logo=railway&logoColor=white" alt="Railway">
+<img src="https://img.shields.io/badge/-131415?style=for-the-badge&logo=railway&logoColor=white" width="50" height="50">
 </a>
-
 <a href="https://render.com">
-<img src="https://img.shields.io/badge/-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Render">
+<img src="https://img.shields.io/badge/-46E3B7?style=for-the-badge&logo=render&logoColor=white" width="50" height="50">
 </a>
 
 <br><br><br>
